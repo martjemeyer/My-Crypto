@@ -18,6 +18,7 @@ My Crypto don’t collect personal information from anyone, including children u
 ## 3th party data
 My Crypto uses BitBlinx its public API, to access its data and stores it on your device for quick access and in case of internet loss.
 https://bitblinx.com/
+
 My Crypto uses CoinDesk its public API, to acces its data and stores it on your device for quick access and in case of internet loss.
 https://www.coindesk.com/
 When un-installing the app, all data will be removed.
