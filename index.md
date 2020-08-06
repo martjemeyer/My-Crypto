@@ -21,6 +21,7 @@ https://bitblinx.com/
 
 My Crypto uses CoinDesk its public API, to acces its data and stores it on your device for quick access and in case of internet loss.
 https://www.coindesk.com/
+
 When un-installing the app, all data will be removed.
 
 ## Contact
